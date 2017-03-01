@@ -4,8 +4,8 @@
 
 ## Что же делать
 
-[ ] CSS
-[ ] HTML
-[ ] Git
-[ ] JS
-[x] Markdown — но надо добавить ссылки на варианты от GitHub и Bitbucket.
+- [ ] CSS
+- [ ] HTML
+- [ ] Git
+- [ ] JS
+- [x] Markdown — но надо добавить ссылки на варианты от GitHub и Bitbucket.
