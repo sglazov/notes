@@ -82,7 +82,7 @@
          </tr>
       </tbody>
    </table>
-   <i style="font-size: 10px;padding-top:6px;"></i>
+   <i style="font-size: 10px;padding-top:6px;">текст подписи картинки</i>
 </center>
 ```
 
