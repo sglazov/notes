@@ -4,6 +4,9 @@
 - See: https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU
 - See: http://codeguide.co
 - See: http://cssnext.io/
+- See: https://drafts.csswg.org/
+- See: https://www.w3.org/Style/CSS/current-work
+- See: https://wsd.events/2016/11/26/pres/you-dont-know-css/
 
 ## Стандартный стиль для ссылок
 
@@ -35,6 +38,10 @@ See: https://bitsofco.de/styling-broken-images/
   text-shadow: none;
 }
 ```
+
+## @supports
+
+See: https://developer.mozilla.org/ru/docs/Web/CSS/@supports
 
 ## :lang
 
