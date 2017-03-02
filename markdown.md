@@ -1,8 +1,8 @@
 # Markdown
 
-See: http://writeme.mattstow.com/ — онлайн-редактор для Markdown с превью
-See: https://bitbucket.org/tutorials/markdowndemo
-See: https://guides.github.com/features/mastering-markdown/
+- See: http://writeme.mattstow.com/ — онлайн-редактор для Markdown с превью
+- See: https://bitbucket.org/tutorials/markdowndemo
+- See: https://guides.github.com/features/mastering-markdown/
 
 ```
 ## h2
