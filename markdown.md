@@ -1,6 +1,8 @@
 # Markdown
 
 See: http://writeme.mattstow.com/ — онлайн-редактор для Markdown с превью
+See: https://bitbucket.org/tutorials/markdowndemo
+See: https://guides.github.com/features/mastering-markdown/
 
 ```
 ## h2
@@ -52,17 +54,18 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 ## Текст, типографика, редакторское
 - See: http://ilyabirman.ru/meanwhile/all/editorial-standards/
-- See: http://habrahabr.ru/post/20588/
 - See: https://unicode-table.com/ru/
 - See: https://www.artlebedev.ru/tools/typograf/
 
 ### Тире
 - See: https://www.artlebedev.ru/kovodstvo/sections/97/
 - See: http://www.artlebedev.ru/kovodstvo/sections/158/
+- See: https://habrahabr.ru/post/20588/
 
 ```
-Тире:
+Тире:          `&mdash;`
 Короткое тире: `&ndash;`, `&#150;` и `&#8211;`
+Минус:         `&minus;`
 ```
 
 Длинное тире окружается пробелами с двух сторон в русской типографике, а вот в английской, наоборот, пишется без всяких пробелов.

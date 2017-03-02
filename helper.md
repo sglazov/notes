@@ -32,7 +32,7 @@
 ```html
 <p style="text-align: center;">
   <img style="width: auto;" src="" alt="" width="" height="" />
-  <span style="display: block; font-size: 12px; padding-top: 2px; color: #b5b2b2; font-style: italic;">текст подписи</span>
+  <span style="display: block; font-size: 12px; padding-top: 2px; color: #b5b2b2; font-style: italic;">Текст подписи</span>
 </p>
 ```
 
@@ -61,7 +61,7 @@
 ```html
 <p style="text-align: center;">
   <img style="padding: 3px; border: 1px solid #ccc;width:auto;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
-  <span style="display: block; font-size: 12px; color: #b5b2b2; font-style: italic;padding-top: 5px;">текст подписи</span>
+  <span style="display: block; font-size: 12px; color: #b5b2b2; font-style: italic;padding-top: 5px;">Текст подписи</span>
 </p>
 ```
 
@@ -88,7 +88,7 @@
 
 ### Спойлеры
 
-Каждый спойлер — со *своим* ID (spoiler_1, spoiler_2).
+Каждый спойлер — со *своим* ID (`spoiler_1`, `spoiler_2`).
 
 ```html
 <div id="spoiler_id" style="display: none;">

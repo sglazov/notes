@@ -8,4 +8,4 @@
 - [ ] HTML
 - [ ] Git
 - [ ] JS
-- [x] Markdown — но надо добавить ссылки на варианты от GitHub и Bitbucket.
+- [x] Markdown
