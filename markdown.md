@@ -56,6 +56,7 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 - See: http://ilyabirman.ru/meanwhile/all/editorial-standards/
 - See: https://unicode-table.com/ru/
 - See: https://www.artlebedev.ru/tools/typograf/
+- See: http://maximilyahov.ru/blog/
 
 ### Тире
 - See: https://www.artlebedev.ru/kovodstvo/sections/97/
@@ -63,9 +64,9 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 - See: https://habrahabr.ru/post/20588/
 
 ```
-Тире:          `&mdash;`
-Короткое тире: `&ndash;`, `&#150;` и `&#8211;`
-Минус:         `&minus;`
+         Тире (&mdash;):  `&mdash;`
+Короткое тире (&ndash;):  `&ndash;`, `&#150;` и `&#8211;`
+        Минус (&minus;):  `&minus;`
 ```
 
 Длинное тире окружается пробелами с двух сторон в русской типографике, а вот в английской, наоборот, пишется без всяких пробелов.
