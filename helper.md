@@ -4,7 +4,7 @@
 
 ### Рамка
 ```html
-<div style="border: 5px solid #ca2017; text-align: center; font-size: 16px; font-weight: bold; padding: 15px 10px 15px 10px; width: 100%; margin-bottom: 2em; max-width: 800px;">
+<div style="border: 5px solid #ca2017; text-align: center; font-size: 16px; font-weight: bold; padding: 15px 10px 15px 10px; width: 100%; margin-bottom: 2em; max-width: 800px;border-radius: 5px;">
   Текст в рамке
 </div>
 ```
@@ -43,7 +43,7 @@
 ### Текст в рамке
 
 ```html
-<div class="help-me" style="border: 5px solid #ffa200;text-align: center;font-size: 18px;font-weight: bold;padding: 12px 15px 2px 15px;width: 100%;margin-bottom: 2em;max-width: 840px;">
+<div class="help-me" style="border: 5px solid #ffa200;text-align: center;font-size: 18px;font-weight: bold;padding: 12px 15px 2px 15px;width: 100%;margin-bottom: 2em;max-width: 840px;border-radius: 3px;">
   Текст в рамке
 </div>
 ```
