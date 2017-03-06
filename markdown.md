@@ -64,8 +64,8 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 - See: https://habrahabr.ru/post/20588/
 
 ```
-        Тире (—):  `&mdash;` и `&#8212;`
-Среднее тире (–):  `&ndash;`, `&#150;` и `&#8211;`
+        Тире (—):  `&mdash;`, `&#8212;`
+Среднее тире (–):  `&ndash;`, `&#8211;`
        Минус (−):  `&minus;`, `&#8722;`
 ```
 
