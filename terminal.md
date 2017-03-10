@@ -20,43 +20,13 @@ find ./ -type f -exec echo {} \;
 find ./ -type f -name "*.php" -exec dos2unix {} \;
 ```
 
-## Удалить доки
-
-```bash
-find ./ -type f -name "*.doc*" -exec rm {} \;
-```
-
-## Расширение файла в нижний регистр переименовать
-
-```bash
-find ./ -type f -exec rename "s/\.JPG$/.jpg/" *.jpg {} \;
-```
-
-## Заменить пробелы на подчеркивания
-
-```bash
-find ./ -type f -exec rename "s/ /_/" *.jpg {} \;
-```
-
-## Имена файлов из русского в транслит
-
-```bash
-find ./ -type f -exec totranslit.sh {} \;
-```
-
-И папки:
-
-```bash
-find ./ -type d -exec totranslit.sh {} \;
-```
-
 ## Вес размер каталога
 
 ```bash
 du -sh .git
 ```
 
-## Вывести все IP-адреса из файлов логов
+## Вывести все IP-адреса из лог-файлов
 ```
 grep -roE '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'
 ```
