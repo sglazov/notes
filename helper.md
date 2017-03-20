@@ -69,6 +69,25 @@
 </p>
 ```
 
+### Таблицы
+
+К сожалению, таблицы в записи нужно вставлять криво:
+
+```html
+<table style="border: 1px solid #ccc;width: 100%;margin-bottom: 10px;">
+  <tbody>
+    <tr>
+      <td style="padding: 10px;border: 1px solid #ccc;font-weight: bold;width: 300px;"></td>
+      <td style="padding: 10px;border: 1px solid #ccc;font-weight: bold;"></td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;border: 1px solid #ccc;"></td>
+      <td style="padding: 10px;border: 1px solid #ccc;"></td>
+    </tr>
+  </tbody>
+</table>
+```
+
 ----
 
 ## Рассылка
