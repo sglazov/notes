@@ -40,6 +40,14 @@
 </p>
 ```
 
+### Врезка в тексте
+
+```html
+<div class="" style="margin: 25px 0; padding: 12px 15px 13px; font-size: 17px; line-height: 24px;border: 1px solid rgba(0,0,0,0.08); border-radius: 4px; background: #fff9cd; box-shadow: 0 1px 15px rgba(0,0,0,0.1); font-family: 'Arial','Helvetica Neue',sans-serif;">
+  Текст врезки
+</div>
+```
+
 ----
 
 ## B.SP
