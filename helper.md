@@ -62,6 +62,8 @@
 
 ### Картинка
 
+Картинки по ширине лучше всего делать — `width: 840px`.
+
 ```html
 <p style="text-align: center;">
   <img style="padding: 3px; border: 1px solid #ccc;width:auto;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
@@ -94,6 +96,12 @@
     </tr>
   </tbody>
 </table>
+```
+
+### Выделение текста
+
+```html
+<span style="color: #c60; background: #fff8d0;padding: 3px 4px 2px 4px;">текст</span>
 ```
 
 ----
