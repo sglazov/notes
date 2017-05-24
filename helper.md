@@ -8,7 +8,7 @@
 
 ### Рамка
 ```html
-<div style="border: 5px solid #ca2017; text-align: center; font-size: 16px; font-weight: bold; padding: 15px 10px 15px 10px; width: 100%; margin-bottom: 2em; max-width: 800px;border-radius: 5px;">
+<div class="hipsterquote" style="border: 5px solid #ca2017; text-align: center; font-size: 16px; font-weight: bold; padding: 15px 10px 15px 10px; width: 100%; margin-bottom: 2em; max-width: 800px;border-radius: 5px;">
   Текст в рамке
 </div>
 ```
@@ -26,7 +26,7 @@
 ### Картинка
 
 ```html
-<p style="text-align: center;">
+<p class="img-center" style="text-align: center;">
   <img style="width: auto;" src="" alt="" width="" height="" />
 </p>
 ```
@@ -34,16 +34,16 @@
 #### Картинка с подписью
 
 ```html
-<p style="text-align: center;">
+<p class="img-center" style="text-align: center;">
   <img style="width: auto;" src="" alt="" width="" height="" />
-  <span style="display: block; font-size: 12px; padding-top: 2px; color: #b5b2b2; font-style: italic;">Текст подписи</span>
+  <span class="img__caption img-center__caption" style="display: block; font-size: 12px; padding-top: 2px; color: #b5b2b2; font-style: italic;">Текст подписи</span>
 </p>
 ```
 
 ### Врезка в тексте
 
 ```html
-<div class="" style="margin: 25px 0; padding: 12px 15px 13px; font-size: 17px; line-height: 24px;border: 1px solid rgba(0,0,0,0.08); border-radius: 4px; background: #fff9cd; box-shadow: 0 1px 15px rgba(0,0,0,0.1); font-family: 'Arial','Helvetica Neue',sans-serif;">
+<div class="hipsterbox" class="" style="margin: 25px 0; padding: 12px 15px 13px; font-size: 17px; line-height: 24px;border: 1px solid rgba(0,0,0,0.08); border-radius: 4px; background: #fff9cd; box-shadow: 0 1px 15px rgba(0,0,0,0.1); font-family: 'Arial','Helvetica Neue',sans-serif;">
   Текст врезки
 </div>
 ```
@@ -73,9 +73,9 @@
 #### Картинка с подписью
 
 ```html
-<p style="text-align: center;">
+<p class="img-center" style="text-align: center;">
   <img style="padding: 3px; border: 1px solid #ccc;width:auto;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
-  <span style="display: block; font-size: 12px; color: #b5b2b2; font-style: italic;padding-top: 5px;">Текст подписи</span>
+  <span class="img__caption img-center__caption" style="display: block; font-size: 12px; color: #b5b2b2; font-style: italic;padding-top: 5px;">Текст подписи</span>
 </p>
 ```
 
@@ -101,7 +101,7 @@
 ### Выделение текста
 
 ```html
-<span style="color: #c60; background: #fff8d0;padding: 3px 4px 2px 4px;">текст</span>
+<span class="mark" style="color: #c60; background: #fff8d0;padding: 3px 4px 2px 4px;">текст</span>
 ```
 
 ----
