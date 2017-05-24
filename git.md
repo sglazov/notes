@@ -1,8 +1,8 @@
 # Git
 
-See: https://github.com/Imangazaliev/git-tips
-See: https://habrahabr.ru/post/106912/
-See: https://githowto.com/ru
+- See: https://github.com/Imangazaliev/git-tips
+- See: https://habrahabr.ru/post/106912/
+- See: https://githowto.com/ru
 
 ## Alias
 
