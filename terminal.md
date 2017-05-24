@@ -1,5 +1,8 @@
 # Terminal
 
+See: https://learnxinyminutes.com/docs/ru-ru/bash-ru/
+See: https://github.com/rupa/z
+
 ## Создать папку и сразу перейти в неё
 
 ```bash

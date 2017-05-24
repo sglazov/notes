@@ -17,7 +17,7 @@ a[href]:not([class]) {
 }
 ```
 
-### Стили для поломанныx изображений
+## Стили для поломанныx изображений
 
 See: https://bitsofco.de/styling-broken-images/
 

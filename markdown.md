@@ -3,6 +3,7 @@
 - See: http://writeme.mattstow.com/ — онлайн-редактор для Markdown с превью
 - See: https://bitbucket.org/tutorials/markdowndemo
 - See: https://guides.github.com/features/mastering-markdown/
+- See: https://learnxinyminutes.com/docs/markdown/
 
 ```
 ## h2
@@ -45,6 +46,25 @@ __strong__
 
 ```markdown
 <kbd>Meld</kbd>→<kbd>Preferences</kbd>→<kbd>File Filters</kbd>
+```
+
+## ToDO
+
+See: [Task lists in all markdown documents](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+
+```
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
 ```
 
 ## Tables
