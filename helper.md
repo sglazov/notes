@@ -66,7 +66,7 @@
 
 ```html
 <p style="text-align: center;">
-  <img style="padding: 3px; border: 1px solid #ccc;width:auto;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
+  <img style="padding: 3px; border: 1px solid #ccc;width:auto;max-width:840px;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
 </p>
 ```
 
@@ -74,7 +74,7 @@
 
 ```html
 <p class="img-center" style="text-align: center;">
-  <img style="padding: 3px; border: 1px solid #ccc;width:auto;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
+  <img style="padding: 3px; border: 1px solid #ccc;width:auto;max-width:840px;height:auto;border-radius:3px;" src="" alt="" width="" height="" />
   <span class="img__caption img-center__caption" style="display: block; font-size: 12px; color: #b5b2b2; font-style: italic;padding-top: 5px;">Текст подписи</span>
 </p>
 ```
