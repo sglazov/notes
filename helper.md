@@ -51,7 +51,7 @@
 ### Большой текст по центру
 
 ```html
-<p class="big-text" style="text-align: center; font-size: 28px; font-weight: 300; line-height: 1;">Если вы не можете четко сказать, в чем ценность контента, считайте, что вы недостаточно поработали над ним</p>
+<p class="big-text" style="text-align: center; font-size: 28px; font-weight: 300; line-height: 1;">Текст</p>
 ```
 
 ----
