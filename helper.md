@@ -110,6 +110,12 @@
 <span class="mark" style="color: #c60; background: #fff8d0;padding: 3px 4px 2px 4px;">текст</span>
 ```
 
+### Блок кода
+
+```html
+<code style="color: #c60; background: #fff8d0;margin-left: 20px;display:block;padding: 3px 4px 2px 4px;">текст</code>
+```
+
 ----
 
 ## Рассылка
