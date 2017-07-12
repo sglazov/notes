@@ -7,6 +7,13 @@
 - See: https://drafts.csswg.org/
 - See: https://www.w3.org/Style/CSS/current-work
 - See: https://wsd.events/2016/11/26/pres/you-dont-know-css/
+- See: http://www.cheetyr.com/css-selectors
+- See: http://cssreference.io/
+- See: https://necolas.github.io/normalize.css/
+
+## Сетка
+
+See: http://flexboxgrid.com/
 
 ## Стандартный стиль для ссылок
 
