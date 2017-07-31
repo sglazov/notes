@@ -23,6 +23,12 @@
 </div>
 ```
 
+### Картинка-превью
+
+```html
+<img style="padding-right: 10px;padding-bottom: 10px;float: left;width: 340px;" src="" alt="" width="" height="" />
+```
+
 ### Картинка
 
 ```html
@@ -53,6 +59,10 @@
 ```html
 <p class="big-text" style="text-align: center; font-size: 28px; font-weight: 300; line-height: 1;">Текст</p>
 ```
+
+### Таблицы
+
+Для вставки таблицы используется семантическая разметка таблицы (с использованием `thead`, `th`, `tbody` и других семантичных тегов).
 
 ----
 
@@ -119,7 +129,7 @@
   </code>
 </pre>
 ```
-Для подстветки кода используется [highlight.js](https://highlightjs.org/).
+Для подстветки кода используется [highlight.js](https://highlightjs.org/). Список поддерживаемых вариантов подстветски синтаксиса есть на странице [highlightjs.org/static/demo/](https://highlightjs.org/static/demo/). Для удобного автоматического форматирования блоков кода использую редактор: [Online HTML Editor &#128221;](https://html-online.com/editor/).
 
 ----
 
