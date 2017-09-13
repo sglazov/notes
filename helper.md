@@ -170,6 +170,7 @@
 
 <details>
   <summary>Старый вариант для писем</summary>
+
 ```html
 <center>
    <table style="border: 1px solid transparent;max-width: ;" cellpadding="0" cellspacing="0">
@@ -182,6 +183,7 @@
    <i style="font-size: 10px;padding-top:6px;display:block;">Текст подписи картинки</i>
 </center>
 ```
+
 Значение в свойстве `max-width` у таблицы и у картинки должно быть равно атрибуту `width=""`.
 </details>
 
