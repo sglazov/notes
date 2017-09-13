@@ -162,7 +162,7 @@
 
 ```html
 <center style="Margin: 2em 0;">
-  <img src="png" width="" style="-ms-interpolation-mode: bicubic; max-width: ; width: 100%;">
+  <img src="" width="" style="-ms-interpolation-mode: bicubic; max-width: ; width: 100%;height:auto;">
 </center>
 ```
 
@@ -170,20 +170,19 @@
 
 <details>
   <summary>Старый вариант для писем</summary>
-
 ```html
-  <center>
-   <table style="border: 1px solid #ccc;" cellpadding="0" cellspacing="0">
+<center>
+   <table style="border: 1px solid transparent;max-width: ;" cellpadding="0" cellspacing="0">
       <tbody>
          <tr>
-            <td><img style="display: block;" attach="" src="" alt=""></td>
+            <td><img src="" alt="" width="" style="display: block;  max-width: ; width: 100%;height:auto;"></td>
          </tr>
       </tbody>
    </table>
    <i style="font-size: 10px;padding-top:6px;display:block;">Текст подписи картинки</i>
 </center>
 ```
-  А вдруг пригодится?
+Значение в свойстве `max-width` у таблицы и у картинки должно быть равно атрибуту `width=""`.
 </details>
 
 ### Спойлеры
