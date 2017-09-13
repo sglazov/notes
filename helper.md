@@ -201,8 +201,24 @@
 ### Таблицы
 
 ```html
-<table cellpadding="0" cellspacing="0" border="0" class="table_in_subscribe" align="center" width="90%">
+<div class="table-responsive">
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped" style="width: 100%;max-width: 100%;">
+     <caption>Схемы интеграции: достоинства и недостатки.</caption>
+     <thead>
+        <tr>
+           <th></th>
+        </tr>
+     </thead>
+     <tbody>
+        <tr>
+           <td></td>
+        </tr>
+     </tbody>
+  </table>
+</div>
 ```
+
+Если ячейкам нужно задать выравнивание текста — нужно добавлять соответствующий класс к `<td>` или `<tr>`: `text-left`, `text-right` или `text-center`.
 
 ### Код в тексте рассылки
 
