@@ -189,13 +189,13 @@
 
 ### Спойлеры
 
-Каждый спойлер — со *своим* ID (`spoiler_1`, `spoiler_2`).
+Каждый спойлер — со *своим* порядковым ID: `spoiler1`, `spoiler2`.
 
 ```html
-<div id="spoiler_id" style="display: none;">
-   {Текст спойлера}
+<span onclick="showhideObj('spoilerId');" class="as_adash">Развернуть</span>
+<div id="spoilerId" style="display: none;">
+   Текст в спойлере
 </div>
-<span class="as_adash" onclick="showhideObj('spoiler_id');">Показать подробности</span>
 ```
 
 ### Таблицы
