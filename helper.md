@@ -164,6 +164,7 @@
 <center style="Margin: 2em 0;">
   <img src="png" width="" style="-ms-interpolation-mode: bicubic; max-width: ; width: 100%;">
 </center>
+```
 
 Значение в свойстве `max-width` должно быть равно атрибуту `width=""`.
 
