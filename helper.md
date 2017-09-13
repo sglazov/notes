@@ -161,7 +161,17 @@
 #### Картинки в рассылке для письма
 
 ```html
-<center>
+<center style="Margin: 2em 0;">
+  <img src="png" width="" style="-ms-interpolation-mode: bicubic; max-width: ; width: 100%;">
+</center>
+
+Значение в свойстве `max-width` должно быть равно атрибуту `width=""`.
+
+<details>
+  <summary>Старый вариант для писем</summary>
+
+```html
+  <center>
    <table style="border: 1px solid #ccc;" cellpadding="0" cellspacing="0">
       <tbody>
          <tr>
@@ -172,6 +182,8 @@
    <i style="font-size: 10px;padding-top:6px;display:block;">Текст подписи картинки</i>
 </center>
 ```
+  А вдруг пригодится?
+</details>
 
 ### Спойлеры
 
