@@ -153,8 +153,8 @@
 
 ```html
 <p class="img_labeled">
-<img src="" alt="" width="" height="" class="screenshot"><br>
-<span>Подпись к изображению</span>
+  <img src="" alt="" width="" height="" class="screenshot"><br>
+  <span>Подпись к изображению</span>
 </p>
 ```
 
