@@ -1,6 +1,7 @@
 # HTML
 
 - See: http://htmlreference.io/
+- See: https://github.com/CSSSR/sputnik/blob/master/docs/HTML/Readme.md
 
 ----
 
