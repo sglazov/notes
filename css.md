@@ -10,10 +10,13 @@
 - See: http://www.cheetyr.com/css-selectors
 - See: http://cssreference.io/
 - See: https://necolas.github.io/normalize.css/
+- See: https://github.com/CSSSR/sputnik/blob/master/docs/CSS/Readme.md
 
 ## Сетка
 
 See: http://flexboxgrid.com/
+See: https://css-tricks.com/snippets/css/complete-guide-grid/
+See: https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 
 ## Стандартный стиль для ссылок
 
