@@ -139,12 +139,20 @@
 
 ## BWA
 
-### Текст на светлом фоне
+### Цитаты
 
 ```html
-<div class="hipsterquote">
-  Текст в рамке
-</div>
+<blockquote>
+  Текст цитаты
+</blockquote>
+```
+
+#### Цитаты в кавычки
+
+```html
+<blockquote class="quote">
+  Текст цитаты с кавычками
+</blockquote>
 ```
 
 ### Картинки
@@ -155,23 +163,25 @@
 <p><img src="" alt="" width="" height="" class="wideresize"></p>
 ```
 
-#### Картинка-скриншот
+#### Картинка с подписью
 
 Используется для оформления скриншотов интерфейса, графиков и всего смыслового и важного:
 
 ```html
 <p class="img_labeled">
-  <img src="" alt="" width="" height="" class="screenshot"><br>
+  <img src="" alt="" width="" height=""><br>
   <span>Подпись к изображению</span>
 </p>
 ```
 
-### Видео
+### Вставка видео
 
-Вставка видео предельна проста: достатоно вставить код, но главное указать `width="700" height="350"`.
+В коде `iframe` или `embed` видео желательны атрибуты `width="100%" height="360"`.
 
 ```html
-<iframe width="700" height="350" src="" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  Код видео
+</div>
 ```
 
 ----
