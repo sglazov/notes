@@ -4,6 +4,10 @@
 - See: https://habrahabr.ru/post/106912/
 - See: https://githowto.com/ru
 
+---
+
+My `.gitconfig`: https://github.com/4enki/dotfiles/blob/master/.gitconfig
+
 ## Alias
 
 ```
