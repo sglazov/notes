@@ -200,12 +200,12 @@
 
 ```html
 <p class="img-text">
-  <img src="" alt="" style="margin-top: 3px;border-bottom: solid 1px #fdfdfd;" width="" height="">
+  <img src="" alt="" width="" height="" style="margin-top: 3px;bottom: solid 1px #fdfdfd;">
   <span class="img-text__caption">Описание картинки</span>
 </p>
 ```
 
-Картинки в тексте рассылки должны быть 800×150, 800×200. Картинки мероприятий должны быть квадратными.
+Картинки в тексте рассылки должны быть `800×150`, `800×200`. Картинки мероприятий должны быть квадратными.
 
 #### Картинки в рассылке для письма
 
