@@ -252,7 +252,7 @@
 ```html
 <div class="table-responsive">
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped" style="width: 100%;max-width: 100%;">
-     <caption>Схемы интеграции: достоинства и недостатки.</caption>
+     <caption>Заголовок таблицы</caption>
      <thead>
         <tr>
            <th></th>
