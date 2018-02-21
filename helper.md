@@ -200,7 +200,7 @@
 
 ```html
 <p class="img-text">
-  <img src="" alt="" width="" height="" style="margin-top: 3px;bottom: solid 1px #fdfdfd;">
+  <img src="" alt="" width="" height="" style="margin-top: 3px;border: solid 1px #fdfdfd;">
   <span class="img-text__caption">Описание картинки</span>
 </p>
 ```
