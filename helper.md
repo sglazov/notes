@@ -184,6 +184,22 @@
 </div>
 ```
 
+### Кнопка по центу
+
+```html
+<div class="btn-block">
+  <a href="" class="btn btn-large btn-green" target="_blank">Текст кнопки</a>
+</div>
+```
+
+Для кнопок доступны классы:
+
+* `btn-green` — зелёная;
+* `btn-orange` — оранжевая;
+* `btn-outline` — контурная кнопка со светлой рамкой;
+* `btn-mini` — маленькая кнопка;
+* `btn-large` — большая кнопка;
+
 ----
 
 ## Рассылка
