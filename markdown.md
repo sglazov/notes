@@ -116,7 +116,8 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 `×` — `&#215;` или `&times;`
 
 ### Пробелы
-See: http://ilyabirman.ru/meanwhile/all/spaces/
+- See: http://ilyabirman.ru/meanwhile/all/spaces/
+- See: http://kirillbelyaev.com/all/zero-width-characters/
 
 #### Неразрывный пробел
 - Между двумя инициалами и между инициалами и фамилией: `А. С. Пушкин`
