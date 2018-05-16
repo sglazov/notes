@@ -117,7 +117,7 @@ See: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 ### Пробелы
 - See: http://ilyabirman.ru/meanwhile/all/spaces/
-- See: http://kirillbelyaev.com/all/zero-width-characters/
+- See: http://kirillbelyaev.com/all/spaces/
 - See: http://prgssr.ru/development/vse-o-probelah.html
 
 #### Неразрывный пробел
