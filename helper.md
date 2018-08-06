@@ -187,7 +187,7 @@
 ### Кнопка по центу
 
 ```html
-<div class="btn-block">
+<div class="btn-block btn-block--big">
   <a href="" class="btn btn-large btn-green" target="_blank">Текст кнопки</a>
 </div>
 ```
