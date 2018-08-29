@@ -225,11 +225,29 @@
 
 ### Картинки
 
+```html
+<p class="img-text">
+  <img 
+    src="" 
+    alt="" 
+    width="" 
+    height="" 
+    style="margin-top: 3px;border: 1px solid #E6EFF0;border-radius: 3px;max-width: 740px;height: auto;"
+  >
+</p>
+```
+
 #### Картинка с подписью
 
 ```html
 <p class="img-text">
-  <img src="" alt="" width="" height="" style="margin-top: 3px;border: 1px solid #E6EFF0;border-radius: 3px;max-width: 740px;height: auto;">
+  <img 
+    src="" 
+    alt="" 
+    width="" 
+    height="" 
+    style="margin-top: 3px;border: 1px solid #E6EFF0;border-radius: 3px;max-width: 740px;height: auto;"
+  >
   <span class="img-text__caption">Описание картинки</span>
 </p>
 ```
