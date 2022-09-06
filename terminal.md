@@ -50,3 +50,9 @@ ps aux | grep node | grep sergey
 Если «вышли» из программы через <kbd>Ctrl</kbd>+<kbd>Z</kbd>, то вернуться можно командой `fg`.
 
 `kill` может принимать аргументом номер задачи, а не только идентификатор процесса: `kill %1`.
+
+## Сжать видео через FFMPEG
+
+```bash
+ffmpeg -i input.mp4 -vcodec h264 -acodec mp2 output.mp4
+```
